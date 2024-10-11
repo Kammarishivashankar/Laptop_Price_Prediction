@@ -1,0 +1,12 @@
+ydata-profiling
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+streamlit
+flask
+requests
+beautifulsoup4
+-e.
